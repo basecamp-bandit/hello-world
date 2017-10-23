@@ -1,4 +1,6 @@
 # hello-world
 Testing out GitHub and all it's features.
 
-This is just me figuring out how the whole system works. I realize I have an uphill battle on my hands as I need to learn GitHub as well as Cake 3.x for PHP. It's a lot ot take in but I can do this.
+This is my place to practice uploading/documenting and using GitHub and all it's features. If you have any suggestions or things I can work on, please leave a comment.
+
+Self teaching can be tough sometimes.
